@@ -1,0 +1,671 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 109320,
+            "tagId": 25,
+            "name": "Daytime",
+            "value": "Day",
+            "labelerLogin": "ytangul",
+            "createdAt": "2020-08-25T00:53:13.536Z",
+            "updatedAt": "2020-08-25T00:53:13.536Z"
+        },
+        {
+            "id": 109321,
+            "tagId": 26,
+            "name": "Weather Condition",
+            "value": "Cloudy",
+            "labelerLogin": "ytangul",
+            "createdAt": "2020-08-25T00:53:13.536Z",
+            "updatedAt": "2020-08-25T00:53:13.536Z"
+        },
+        {
+            "id": 109322,
+            "tagId": 27,
+            "name": "Traffic Condition",
+            "value": "Light Traffic",
+            "labelerLogin": "ytangul",
+            "createdAt": "2020-08-25T00:53:13.536Z",
+            "updatedAt": "2020-08-25T00:53:13.536Z"
+        },
+        {
+            "id": 109323,
+            "tagId": 28,
+            "name": "Scene Type",
+            "value": "Other",
+            "labelerLogin": "ytangul",
+            "createdAt": "2020-08-25T00:53:13.536Z",
+            "updatedAt": "2020-08-25T00:53:13.536Z"
+        }
+    ],
+    "size": {
+        "height": 1208,
+        "width": 1920
+    },
+    "objects": [
+        {
+            "id": 289290,
+            "classId": 42,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "ytangul",
+            "createdAt": "2020-08-25T00:49:57.135Z",
+            "updatedAt": "2020-08-25T00:52:24.080Z",
+            "tags": [],
+            "classTitle": "Solid Line",
+            "points": {
+                "exterior": [
+                    [
+                        1919,
+                        936
+                    ],
+                    [
+                        1177,
+                        667
+                    ],
+                    [
+                        1056,
+                        625
+                    ],
+                    [
+                        1003,
+                        608
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 289291,
+            "classId": 43,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "ytangul",
+            "createdAt": "2020-08-25T00:50:07.197Z",
+            "updatedAt": "2020-08-25T00:52:24.080Z",
+            "tags": [],
+            "classTitle": "Dashed Line",
+            "points": {
+                "exterior": [
+                    [
+                        1400,
+                        1207
+                    ],
+                    [
+                        1061,
+                        738
+                    ],
+                    [
+                        1005,
+                        662
+                    ],
+                    [
+                        978,
+                        632
+                    ],
+                    [
+                        965,
+                        617
+                    ],
+                    [
+                        957,
+                        610
+                    ],
+                    [
+                        938,
+                        596
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 289292,
+            "classId": 43,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "ytangul",
+            "createdAt": "2020-08-25T00:50:19.927Z",
+            "updatedAt": "2020-08-25T00:52:24.080Z",
+            "tags": [],
+            "classTitle": "Dashed Line",
+            "points": {
+                "exterior": [
+                    [
+                        279,
+                        1207
+                    ],
+                    [
+                        798,
+                        725
+                    ],
+                    [
+                        873,
+                        653
+                    ],
+                    [
+                        894,
+                        630
+                    ],
+                    [
+                        904,
+                        616
+                    ],
+                    [
+                        907,
+                        609
+                    ],
+                    [
+                        908,
+                        604
+                    ],
+                    [
+                        907,
+                        599
+                    ],
+                    [
+                        905,
+                        596
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 289293,
+            "classId": 43,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "ytangul",
+            "createdAt": "2020-08-25T00:50:42.522Z",
+            "updatedAt": "2020-08-25T00:52:24.080Z",
+            "tags": [],
+            "classTitle": "Dashed Line",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        932
+                    ],
+                    [
+                        735,
+                        662
+                    ],
+                    [
+                        826,
+                        627
+                    ],
+                    [
+                        854,
+                        614
+                    ],
+                    [
+                        866,
+                        609
+                    ],
+                    [
+                        872,
+                        605
+                    ],
+                    [
+                        878,
+                        601
+                    ],
+                    [
+                        879,
+                        598
+                    ],
+                    [
+                        880,
+                        594
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 289294,
+            "classId": 42,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "ytangul",
+            "createdAt": "2020-08-25T00:51:12.564Z",
+            "updatedAt": "2020-08-25T00:52:24.080Z",
+            "tags": [],
+            "classTitle": "Solid Line",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        805
+                    ],
+                    [
+                        716,
+                        637
+                    ],
+                    [
+                        816,
+                        611
+                    ],
+                    [
+                        842,
+                        604
+                    ],
+                    [
+                        849,
+                        601
+                    ],
+                    [
+                        854,
+                        598
+                    ],
+                    [
+                        856,
+                        596
+                    ],
+                    [
+                        857,
+                        594
+                    ],
+                    [
+                        857,
+                        591
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 289295,
+            "classId": 39,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "ytangul",
+            "createdAt": "2020-08-25T00:51:29.920Z",
+            "updatedAt": "2020-08-25T00:52:24.080Z",
+            "tags": [],
+            "classTitle": "Traffic Cone",
+            "points": {
+                "exterior": [
+                    [
+                        546,
+                        926
+                    ],
+                    [
+                        546,
+                        911
+                    ],
+                    [
+                        528,
+                        907
+                    ],
+                    [
+                        508,
+                        790
+                    ],
+                    [
+                        497,
+                        790
+                    ],
+                    [
+                        481,
+                        920
+                    ],
+                    [
+                        465,
+                        924
+                    ],
+                    [
+                        461,
+                        931
+                    ],
+                    [
+                        458,
+                        944
+                    ],
+                    [
+                        519,
+                        947
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 289296,
+            "classId": 39,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "ytangul",
+            "createdAt": "2020-08-25T00:51:41.126Z",
+            "updatedAt": "2020-08-25T00:52:24.080Z",
+            "tags": [],
+            "classTitle": "Traffic Cone",
+            "points": {
+                "exterior": [
+                    [
+                        833,
+                        681
+                    ],
+                    [
+                        833,
+                        677
+                    ],
+                    [
+                        826,
+                        677
+                    ],
+                    [
+                        821,
+                        639
+                    ],
+                    [
+                        816,
+                        639
+                    ],
+                    [
+                        813,
+                        677
+                    ],
+                    [
+                        806,
+                        680
+                    ],
+                    [
+                        806,
+                        683
+                    ],
+                    [
+                        824,
+                        684
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 289297,
+            "classId": 39,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "ytangul",
+            "createdAt": "2020-08-25T00:51:51.012Z",
+            "updatedAt": "2020-08-25T00:52:24.080Z",
+            "tags": [],
+            "classTitle": "Traffic Cone",
+            "points": {
+                "exterior": [
+                    [
+                        879,
+                        641
+                    ],
+                    [
+                        879,
+                        639
+                    ],
+                    [
+                        876,
+                        639
+                    ],
+                    [
+                        873,
+                        617
+                    ],
+                    [
+                        870,
+                        617
+                    ],
+                    [
+                        868,
+                        638
+                    ],
+                    [
+                        865,
+                        639
+                    ],
+                    [
+                        865,
+                        641
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 289298,
+            "classId": 39,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "ytangul",
+            "createdAt": "2020-08-25T00:51:58.611Z",
+            "updatedAt": "2020-08-25T00:52:24.080Z",
+            "tags": [],
+            "classTitle": "Traffic Cone",
+            "points": {
+                "exterior": [
+                    [
+                        900,
+                        615
+                    ],
+                    [
+                        899,
+                        602
+                    ],
+                    [
+                        895,
+                        602
+                    ],
+                    [
+                        893,
+                        615
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 289299,
+            "classId": 36,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ytangul",
+            "createdAt": "2020-08-25T00:52:11.575Z",
+            "updatedAt": "2020-08-25T00:52:24.080Z",
+            "tags": [],
+            "classTitle": "Traffic Sign",
+            "points": {
+                "exterior": [
+                    [
+                        1058,
+                        574
+                    ],
+                    [
+                        1095,
+                        582
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 289300,
+            "classId": 36,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ytangul",
+            "createdAt": "2020-08-25T00:52:18.185Z",
+            "updatedAt": "2020-08-25T00:52:24.080Z",
+            "tags": [],
+            "classTitle": "Traffic Sign",
+            "points": {
+                "exterior": [
+                    [
+                        1057,
+                        584
+                    ],
+                    [
+                        1096,
+                        590
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 289301,
+            "classId": 38,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "ytangul",
+            "createdAt": "2020-08-25T00:52:23.896Z",
+            "updatedAt": "2020-08-25T00:53:08.587Z",
+            "tags": [],
+            "classTitle": "Freespace",
+            "points": {
+                "exterior": [
+                    [
+                        1919,
+                        798
+                    ],
+                    [
+                        1206,
+                        643
+                    ],
+                    [
+                        1003,
+                        601
+                    ],
+                    [
+                        1001,
+                        605
+                    ],
+                    [
+                        1001,
+                        611
+                    ],
+                    [
+                        970,
+                        612
+                    ],
+                    [
+                        960,
+                        607
+                    ],
+                    [
+                        958,
+                        603
+                    ],
+                    [
+                        958,
+                        599
+                    ],
+                    [
+                        958,
+                        595
+                    ],
+                    [
+                        951,
+                        593
+                    ],
+                    [
+                        951,
+                        596
+                    ],
+                    [
+                        932,
+                        596
+                    ],
+                    [
+                        932,
+                        600
+                    ],
+                    [
+                        913,
+                        600
+                    ],
+                    [
+                        912,
+                        596
+                    ],
+                    [
+                        911,
+                        591
+                    ],
+                    [
+                        910,
+                        589
+                    ],
+                    [
+                        907,
+                        585
+                    ],
+                    [
+                        898,
+                        584
+                    ],
+                    [
+                        900,
+                        588
+                    ],
+                    [
+                        903,
+                        593
+                    ],
+                    [
+                        904,
+                        597
+                    ],
+                    [
+                        904,
+                        600
+                    ],
+                    [
+                        903,
+                        606
+                    ],
+                    [
+                        900,
+                        615
+                    ],
+                    [
+                        879,
+                        641
+                    ],
+                    [
+                        833,
+                        681
+                    ],
+                    [
+                        546,
+                        926
+                    ],
+                    [
+                        519,
+                        947
+                    ],
+                    [
+                        458,
+                        944
+                    ],
+                    [
+                        81,
+                        770
+                    ],
+                    [
+                        0,
+                        786
+                    ],
+                    [
+                        0,
+                        1207
+                    ],
+                    [
+                        1919,
+                        1207
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,399 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 116254,
+            "tagId": 28,
+            "name": "Scene Type",
+            "value": "No Anomaly",
+            "labelerLogin": "odogan13",
+            "createdAt": "2020-09-02T12:13:46.992Z",
+            "updatedAt": "2020-09-02T12:13:46.992Z"
+        },
+        {
+            "id": 116255,
+            "tagId": 26,
+            "name": "Weather Condition",
+            "value": "Cloudy",
+            "labelerLogin": "odogan13",
+            "createdAt": "2020-09-02T12:13:46.992Z",
+            "updatedAt": "2020-09-02T12:13:46.992Z"
+        },
+        {
+            "id": 116256,
+            "tagId": 25,
+            "name": "Daytime",
+            "value": "Day",
+            "labelerLogin": "odogan13",
+            "createdAt": "2020-09-02T12:13:46.992Z",
+            "updatedAt": "2020-09-02T12:13:46.992Z"
+        },
+        {
+            "id": 116257,
+            "tagId": 27,
+            "name": "Traffic Condition",
+            "value": "Moderate Traffic",
+            "labelerLogin": "odogan13",
+            "createdAt": "2020-09-02T12:13:46.992Z",
+            "updatedAt": "2020-09-02T12:13:46.992Z"
+        }
+    ],
+    "size": {
+        "height": 1208,
+        "width": 1920
+    },
+    "objects": [
+        {
+            "id": 317790,
+            "classId": 42,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "odogan13",
+            "createdAt": "2020-09-02T12:13:52.828Z",
+            "updatedAt": "2020-09-02T12:14:28.110Z",
+            "tags": [],
+            "classTitle": "Solid Line",
+            "points": {
+                "exterior": [
+                    [
+                        742,
+                        641
+                    ],
+                    [
+                        628,
+                        669
+                    ],
+                    [
+                        0,
+                        823
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 317791,
+            "classId": 43,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "odogan13",
+            "createdAt": "2020-09-02T12:14:05.262Z",
+            "updatedAt": "2020-09-02T12:14:28.110Z",
+            "tags": [],
+            "classTitle": "Dashed Line",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        966
+                    ],
+                    [
+                        336,
+                        833
+                    ],
+                    [
+                        739,
+                        676
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 317792,
+            "classId": 43,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "odogan13",
+            "createdAt": "2020-09-02T12:14:18.067Z",
+            "updatedAt": "2020-09-02T12:14:28.110Z",
+            "tags": [],
+            "classTitle": "Dashed Line",
+            "points": {
+                "exterior": [
+                    [
+                        826,
+                        743
+                    ],
+                    [
+                        406,
+                        1207
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 317794,
+            "classId": 42,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "odogan13",
+            "createdAt": "2020-09-02T12:14:23.726Z",
+            "updatedAt": "2020-09-02T12:14:28.110Z",
+            "tags": [],
+            "classTitle": "Solid Line",
+            "points": {
+                "exterior": [
+                    [
+                        1536,
+                        1207
+                    ],
+                    [
+                        1196,
+                        838
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 317795,
+            "classId": 38,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "odogan13",
+            "createdAt": "2020-09-02T12:14:27.960Z",
+            "updatedAt": "2020-09-02T12:15:02.986Z",
+            "tags": [],
+            "classTitle": "Freespace",
+            "points": {
+                "exterior": [
+                    [
+                        1919,
+                        1207
+                    ],
+                    [
+                        1919,
+                        944
+                    ],
+                    [
+                        1315,
+                        719
+                    ],
+                    [
+                        1310,
+                        733
+                    ],
+                    [
+                        1307,
+                        748
+                    ],
+                    [
+                        1302,
+                        764
+                    ],
+                    [
+                        1300,
+                        780
+                    ],
+                    [
+                        1300,
+                        797
+                    ],
+                    [
+                        1290,
+                        876
+                    ],
+                    [
+                        1277,
+                        893
+                    ],
+                    [
+                        1243,
+                        919
+                    ],
+                    [
+                        1191,
+                        948
+                    ],
+                    [
+                        973,
+                        968
+                    ],
+                    [
+                        912,
+                        966
+                    ],
+                    [
+                        856,
+                        958
+                    ],
+                    [
+                        830,
+                        937
+                    ],
+                    [
+                        812,
+                        894
+                    ],
+                    [
+                        800,
+                        852
+                    ],
+                    [
+                        790,
+                        812
+                    ],
+                    [
+                        786,
+                        785
+                    ],
+                    [
+                        774,
+                        740
+                    ],
+                    [
+                        772,
+                        694
+                    ],
+                    [
+                        739,
+                        694
+                    ],
+                    [
+                        737,
+                        667
+                    ],
+                    [
+                        741,
+                        634
+                    ],
+                    [
+                        623,
+                        658
+                    ],
+                    [
+                        629,
+                        673
+                    ],
+                    [
+                        640,
+                        681
+                    ],
+                    [
+                        651,
+                        686
+                    ],
+                    [
+                        659,
+                        690
+                    ],
+                    [
+                        674,
+                        695
+                    ],
+                    [
+                        679,
+                        704
+                    ],
+                    [
+                        685,
+                        710
+                    ],
+                    [
+                        696,
+                        716
+                    ],
+                    [
+                        701,
+                        727
+                    ],
+                    [
+                        705,
+                        740
+                    ],
+                    [
+                        706,
+                        765
+                    ],
+                    [
+                        699,
+                        784
+                    ],
+                    [
+                        672,
+                        805
+                    ],
+                    [
+                        615,
+                        846
+                    ],
+                    [
+                        600,
+                        854
+                    ],
+                    [
+                        505,
+                        873
+                    ],
+                    [
+                        397,
+                        873
+                    ],
+                    [
+                        360,
+                        873
+                    ],
+                    [
+                        346,
+                        853
+                    ],
+                    [
+                        342,
+                        841
+                    ],
+                    [
+                        336,
+                        828
+                    ],
+                    [
+                        330,
+                        812
+                    ],
+                    [
+                        331,
+                        798
+                    ],
+                    [
+                        334,
+                        783
+                    ],
+                    [
+                        338,
+                        769
+                    ],
+                    [
+                        343,
+                        756
+                    ],
+                    [
+                        356,
+                        746
+                    ],
+                    [
+                        372,
+                        742
+                    ],
+                    [
+                        388,
+                        732
+                    ],
+                    [
+                        411,
+                        708
+                    ],
+                    [
+                        0,
+                        798
+                    ],
+                    [
+                        0,
+                        1207
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

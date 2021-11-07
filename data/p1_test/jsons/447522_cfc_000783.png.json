@@ -1,0 +1,499 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 105041,
+            "tagId": 25,
+            "name": "Daytime",
+            "value": "Day",
+            "labelerLogin": "ytangul",
+            "createdAt": "2020-08-20T06:25:19.711Z",
+            "updatedAt": "2020-08-20T06:25:19.711Z"
+        },
+        {
+            "id": 105042,
+            "tagId": 26,
+            "name": "Weather Condition",
+            "value": "Cloudy",
+            "labelerLogin": "ytangul",
+            "createdAt": "2020-08-20T06:25:19.711Z",
+            "updatedAt": "2020-08-20T06:25:19.711Z"
+        },
+        {
+            "id": 105043,
+            "tagId": 27,
+            "name": "Traffic Condition",
+            "value": "Light Traffic",
+            "labelerLogin": "ytangul",
+            "createdAt": "2020-08-20T06:25:19.711Z",
+            "updatedAt": "2020-08-20T06:25:19.711Z"
+        },
+        {
+            "id": 105044,
+            "tagId": 28,
+            "name": "Scene Type",
+            "value": "No Anomaly",
+            "labelerLogin": "ytangul",
+            "createdAt": "2020-08-20T06:25:25.018Z",
+            "updatedAt": "2020-08-20T06:25:25.018Z"
+        }
+    ],
+    "size": {
+        "height": 1208,
+        "width": 1920
+    },
+    "objects": [
+        {
+            "id": 271348,
+            "classId": 42,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "ytangul",
+            "createdAt": "2020-08-20T06:23:13.784Z",
+            "updatedAt": "2020-08-20T06:24:36.662Z",
+            "tags": [],
+            "classTitle": "Solid Line",
+            "points": {
+                "exterior": [
+                    [
+                        1919,
+                        742
+                    ],
+                    [
+                        1189,
+                        613
+                    ],
+                    [
+                        1109,
+                        601
+                    ],
+                    [
+                        1084,
+                        597
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 271349,
+            "classId": 43,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "ytangul",
+            "createdAt": "2020-08-20T06:23:23.050Z",
+            "updatedAt": "2020-08-20T06:24:36.662Z",
+            "tags": [],
+            "classTitle": "Dashed Line",
+            "points": {
+                "exterior": [
+                    [
+                        1919,
+                        885
+                    ],
+                    [
+                        1133,
+                        638
+                    ],
+                    [
+                        1077,
+                        617
+                    ],
+                    [
+                        1055,
+                        608
+                    ],
+                    [
+                        1045,
+                        603
+                    ],
+                    [
+                        1039,
+                        600
+                    ],
+                    [
+                        1034,
+                        597
+                    ],
+                    [
+                        1033,
+                        594
+                    ],
+                    [
+                        1035,
+                        591
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 271350,
+            "classId": 43,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "ytangul",
+            "createdAt": "2020-08-20T06:23:34.870Z",
+            "updatedAt": "2020-08-20T06:24:36.662Z",
+            "tags": [],
+            "classTitle": "Dashed Line",
+            "points": {
+                "exterior": [
+                    [
+                        1571,
+                        1207
+                    ],
+                    [
+                        1122,
+                        738
+                    ],
+                    [
+                        1047,
+                        659
+                    ],
+                    [
+                        1023,
+                        631
+                    ],
+                    [
+                        1015,
+                        621
+                    ],
+                    [
+                        1010,
+                        614
+                    ],
+                    [
+                        1007,
+                        608
+                    ],
+                    [
+                        1007,
+                        602
+                    ],
+                    [
+                        1009,
+                        598
+                    ],
+                    [
+                        1011,
+                        594
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 271351,
+            "classId": 43,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "ytangul",
+            "createdAt": "2020-08-20T06:23:46.985Z",
+            "updatedAt": "2020-08-20T06:24:36.662Z",
+            "tags": [],
+            "classTitle": "Dashed Line",
+            "points": {
+                "exterior": [
+                    [
+                        418,
+                        1207
+                    ],
+                    [
+                        851,
+                        722
+                    ],
+                    [
+                        903,
+                        665
+                    ],
+                    [
+                        935,
+                        633
+                    ],
+                    [
+                        956,
+                        615
+                    ],
+                    [
+                        971,
+                        604
+                    ],
+                    [
+                        988,
+                        595
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 271355,
+            "classId": 43,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "ytangul",
+            "createdAt": "2020-08-20T06:24:07.445Z",
+            "updatedAt": "2020-08-20T06:24:36.662Z",
+            "tags": [],
+            "classTitle": "Dashed Line",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        958
+                    ],
+                    [
+                        837,
+                        638
+                    ],
+                    [
+                        889,
+                        619
+                    ],
+                    [
+                        923,
+                        608
+                    ],
+                    [
+                        949,
+                        600
+                    ],
+                    [
+                        969,
+                        595
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 271356,
+            "classId": 42,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "ytangul",
+            "createdAt": "2020-08-20T06:24:21.406Z",
+            "updatedAt": "2020-08-20T06:24:36.662Z",
+            "tags": [],
+            "classTitle": "Solid Line",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        808
+                    ],
+                    [
+                        809,
+                        624
+                    ],
+                    [
+                        881,
+                        609
+                    ],
+                    [
+                        932,
+                        598
+                    ],
+                    [
+                        959,
+                        593
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 271357,
+            "classId": 38,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "ytangul",
+            "createdAt": "2020-08-20T06:24:36.559Z",
+            "updatedAt": "2020-08-20T06:25:16.185Z",
+            "tags": [],
+            "classTitle": "Freespace",
+            "points": {
+                "exterior": [
+                    [
+                        1768,
+                        1207
+                    ],
+                    [
+                        1223,
+                        770
+                    ],
+                    [
+                        1219,
+                        761
+                    ],
+                    [
+                        1217,
+                        756
+                    ],
+                    [
+                        1217,
+                        749
+                    ],
+                    [
+                        1215,
+                        743
+                    ],
+                    [
+                        1207,
+                        740
+                    ],
+                    [
+                        1197,
+                        734
+                    ],
+                    [
+                        1196,
+                        728
+                    ],
+                    [
+                        1198,
+                        719
+                    ],
+                    [
+                        1197,
+                        703
+                    ],
+                    [
+                        1197,
+                        696
+                    ],
+                    [
+                        1195,
+                        674
+                    ],
+                    [
+                        1195,
+                        664
+                    ],
+                    [
+                        1200,
+                        660
+                    ],
+                    [
+                        1203,
+                        655
+                    ],
+                    [
+                        1200,
+                        649
+                    ],
+                    [
+                        1200,
+                        643
+                    ],
+                    [
+                        1200,
+                        629
+                    ],
+                    [
+                        1200,
+                        621
+                    ],
+                    [
+                        1200,
+                        612
+                    ],
+                    [
+                        1085,
+                        595
+                    ],
+                    [
+                        1058,
+                        589
+                    ],
+                    [
+                        1055,
+                        587
+                    ],
+                    [
+                        1050,
+                        586
+                    ],
+                    [
+                        1049,
+                        589
+                    ],
+                    [
+                        1043,
+                        589
+                    ],
+                    [
+                        1037,
+                        589
+                    ],
+                    [
+                        1030,
+                        590
+                    ],
+                    [
+                        1027,
+                        590
+                    ],
+                    [
+                        1027,
+                        596
+                    ],
+                    [
+                        1012,
+                        596
+                    ],
+                    [
+                        1013,
+                        587
+                    ],
+                    [
+                        981,
+                        590
+                    ],
+                    [
+                        943,
+                        595
+                    ],
+                    [
+                        776,
+                        626
+                    ],
+                    [
+                        777,
+                        662
+                    ],
+                    [
+                        775,
+                        708
+                    ],
+                    [
+                        755,
+                        720
+                    ],
+                    [
+                        746,
+                        726
+                    ],
+                    [
+                        745,
+                        736
+                    ],
+                    [
+                        744,
+                        743
+                    ],
+                    [
+                        739,
+                        750
+                    ],
+                    [
+                        110,
+                        1207
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,443 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 97780,
+            "tagId": 28,
+            "name": "Scene Type",
+            "value": "Other",
+            "labelerLogin": "abingul",
+            "createdAt": "2020-08-10T11:45:15.397Z",
+            "updatedAt": "2020-08-10T11:45:15.397Z"
+        },
+        {
+            "id": 97781,
+            "tagId": 25,
+            "name": "Daytime",
+            "value": "Day",
+            "labelerLogin": "abingul",
+            "createdAt": "2020-08-10T11:45:15.397Z",
+            "updatedAt": "2020-08-10T11:45:15.397Z"
+        },
+        {
+            "id": 97783,
+            "tagId": 27,
+            "name": "Traffic Condition",
+            "value": "Light Traffic",
+            "labelerLogin": "abingul",
+            "createdAt": "2020-08-10T11:45:15.397Z",
+            "updatedAt": "2020-08-10T11:45:15.397Z"
+        },
+        {
+            "id": 111542,
+            "tagId": 26,
+            "name": "Weather Condition",
+            "value": "Cloudy",
+            "labelerLogin": "ytangul",
+            "createdAt": "2020-08-27T12:40:16.687Z",
+            "updatedAt": "2020-08-27T12:40:16.687Z"
+        }
+    ],
+    "size": {
+        "height": 1208,
+        "width": 1920
+    },
+    "objects": [
+        {
+            "id": 245225,
+            "classId": 38,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "abingul",
+            "createdAt": "2020-08-10T11:42:50.572Z",
+            "updatedAt": "2020-08-10T11:45:11.882Z",
+            "tags": [],
+            "classTitle": "Freespace",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        1208
+                    ],
+                    [
+                        0,
+                        831
+                    ],
+                    [
+                        637,
+                        671
+                    ],
+                    [
+                        831,
+                        619
+                    ],
+                    [
+                        906,
+                        599
+                    ],
+                    [
+                        932,
+                        593
+                    ],
+                    [
+                        947,
+                        592
+                    ],
+                    [
+                        947,
+                        594
+                    ],
+                    [
+                        954,
+                        594
+                    ],
+                    [
+                        954,
+                        592
+                    ],
+                    [
+                        967,
+                        592
+                    ],
+                    [
+                        967,
+                        593
+                    ],
+                    [
+                        970,
+                        593
+                    ],
+                    [
+                        970,
+                        591
+                    ],
+                    [
+                        981,
+                        591
+                    ],
+                    [
+                        981,
+                        597
+                    ],
+                    [
+                        994,
+                        597
+                    ],
+                    [
+                        994,
+                        594
+                    ],
+                    [
+                        1007,
+                        597
+                    ],
+                    [
+                        1047,
+                        607
+                    ],
+                    [
+                        1127,
+                        629
+                    ],
+                    [
+                        1148,
+                        634
+                    ],
+                    [
+                        1148,
+                        649
+                    ],
+                    [
+                        1149,
+                        650
+                    ],
+                    [
+                        1151,
+                        650
+                    ],
+                    [
+                        1151,
+                        653
+                    ],
+                    [
+                        1148,
+                        653
+                    ],
+                    [
+                        1148,
+                        667
+                    ],
+                    [
+                        1148,
+                        684
+                    ],
+                    [
+                        1157,
+                        684
+                    ],
+                    [
+                        1157,
+                        687
+                    ],
+                    [
+                        1159,
+                        687
+                    ],
+                    [
+                        1159,
+                        696
+                    ],
+                    [
+                        1159,
+                        698
+                    ],
+                    [
+                        1162,
+                        698
+                    ],
+                    [
+                        1162,
+                        707
+                    ],
+                    [
+                        1164,
+                        712
+                    ],
+                    [
+                        1169,
+                        716
+                    ],
+                    [
+                        1229,
+                        759
+                    ],
+                    [
+                        1518,
+                        945
+                    ],
+                    [
+                        1735,
+                        1087
+                    ],
+                    [
+                        1920,
+                        1203
+                    ],
+                    [
+                        1920,
+                        1208
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 245228,
+            "classId": 42,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "abingul",
+            "createdAt": "2020-08-10T11:43:59.593Z",
+            "updatedAt": "2020-08-10T11:45:11.882Z",
+            "tags": [],
+            "classTitle": "Solid Line",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        846
+                    ],
+                    [
+                        368,
+                        748
+                    ],
+                    [
+                        763,
+                        640
+                    ],
+                    [
+                        874,
+                        609
+                    ],
+                    [
+                        932,
+                        593
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 245229,
+            "classId": 42,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "abingul",
+            "createdAt": "2020-08-10T11:44:13.550Z",
+            "updatedAt": "2020-08-10T11:45:11.882Z",
+            "tags": [],
+            "classTitle": "Solid Line",
+            "points": {
+                "exterior": [
+                    [
+                        1920,
+                        859
+                    ],
+                    [
+                        1145,
+                        642
+                    ],
+                    [
+                        1080,
+                        622
+                    ],
+                    [
+                        1038,
+                        608
+                    ],
+                    [
+                        1005,
+                        598
+                    ],
+                    [
+                        993,
+                        594
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 245230,
+            "classId": 43,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "abingul",
+            "createdAt": "2020-08-10T11:44:27.858Z",
+            "updatedAt": "2020-08-10T11:45:11.882Z",
+            "tags": [],
+            "classTitle": "Dashed Line",
+            "points": {
+                "exterior": [
+                    [
+                        1766,
+                        1208
+                    ],
+                    [
+                        1205,
+                        773
+                    ],
+                    [
+                        1047,
+                        652
+                    ],
+                    [
+                        982,
+                        600
+                    ],
+                    [
+                        973,
+                        593
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 245231,
+            "classId": 43,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "abingul",
+            "createdAt": "2020-08-10T11:44:40.817Z",
+            "updatedAt": "2020-08-10T11:45:11.882Z",
+            "tags": [],
+            "classTitle": "Dashed Line",
+            "points": {
+                "exterior": [
+                    [
+                        643,
+                        1208
+                    ],
+                    [
+                        886,
+                        733
+                    ],
+                    [
+                        928,
+                        652
+                    ],
+                    [
+                        959,
+                        593
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 245233,
+            "classId": 43,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "abingul",
+            "createdAt": "2020-08-10T11:44:54.051Z",
+            "updatedAt": "2020-08-10T11:45:11.882Z",
+            "tags": [],
+            "classTitle": "Dashed Line",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        1032
+                    ],
+                    [
+                        593,
+                        757
+                    ],
+                    [
+                        803,
+                        659
+                    ],
+                    [
+                        875,
+                        626
+                    ],
+                    [
+                        918,
+                        606
+                    ],
+                    [
+                        946,
+                        593
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 245234,
+            "classId": 37,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "abingul",
+            "createdAt": "2020-08-10T11:45:11.744Z",
+            "updatedAt": "2020-08-10T11:45:11.744Z",
+            "tags": [],
+            "classTitle": "Traffic Light",
+            "points": {
+                "exterior": [
+                    [
+                        1078,
+                        561
+                    ],
+                    [
+                        1083,
+                        566
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,511 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 106957,
+            "tagId": 25,
+            "name": "Daytime",
+            "value": "Day",
+            "labelerLogin": "abingul",
+            "createdAt": "2020-08-21T20:21:00.920Z",
+            "updatedAt": "2020-08-21T20:21:00.920Z"
+        },
+        {
+            "id": 106958,
+            "tagId": 26,
+            "name": "Weather Condition",
+            "value": "Clear",
+            "labelerLogin": "abingul",
+            "createdAt": "2020-08-21T20:21:00.920Z",
+            "updatedAt": "2020-08-21T20:21:00.920Z"
+        },
+        {
+            "id": 106959,
+            "tagId": 27,
+            "name": "Traffic Condition",
+            "value": "Light Traffic",
+            "labelerLogin": "abingul",
+            "createdAt": "2020-08-21T20:21:00.920Z",
+            "updatedAt": "2020-08-21T20:21:00.920Z"
+        },
+        {
+            "id": 106961,
+            "tagId": 28,
+            "name": "Scene Type",
+            "value": "Viaduct",
+            "labelerLogin": "abingul",
+            "createdAt": "2020-08-21T20:21:12.892Z",
+            "updatedAt": "2020-08-21T20:21:12.892Z"
+        }
+    ],
+    "size": {
+        "height": 1208,
+        "width": 1920
+    },
+    "objects": [
+        {
+            "id": 279888,
+            "classId": 38,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "abingul",
+            "createdAt": "2020-08-21T20:17:43.488Z",
+            "updatedAt": "2020-08-21T20:20:37.845Z",
+            "tags": [],
+            "classTitle": "Freespace",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        1207
+                    ],
+                    [
+                        0,
+                        797
+                    ],
+                    [
+                        636,
+                        657
+                    ],
+                    [
+                        817,
+                        617
+                    ],
+                    [
+                        864,
+                        608
+                    ],
+                    [
+                        896,
+                        602
+                    ],
+                    [
+                        911,
+                        600
+                    ],
+                    [
+                        951,
+                        600
+                    ],
+                    [
+                        973,
+                        600
+                    ],
+                    [
+                        979,
+                        600
+                    ],
+                    [
+                        979,
+                        602
+                    ],
+                    [
+                        992,
+                        602
+                    ],
+                    [
+                        992,
+                        599
+                    ],
+                    [
+                        1043,
+                        601
+                    ],
+                    [
+                        1118,
+                        607
+                    ],
+                    [
+                        1243,
+                        620
+                    ],
+                    [
+                        1622,
+                        667
+                    ],
+                    [
+                        1920,
+                        704
+                    ],
+                    [
+                        1919,
+                        1207
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279890,
+            "classId": 42,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "abingul",
+            "createdAt": "2020-08-21T20:18:13.772Z",
+            "updatedAt": "2020-08-21T20:20:37.845Z",
+            "tags": [],
+            "classTitle": "Solid Line",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        821
+                    ],
+                    [
+                        291,
+                        750
+                    ],
+                    [
+                        649,
+                        662
+                    ],
+                    [
+                        823,
+                        619
+                    ],
+                    [
+                        885,
+                        605
+                    ],
+                    [
+                        917,
+                        599
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279892,
+            "classId": 42,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "abingul",
+            "createdAt": "2020-08-21T20:18:31.344Z",
+            "updatedAt": "2020-08-21T20:20:37.845Z",
+            "tags": [],
+            "classTitle": "Solid Line",
+            "points": {
+                "exterior": [
+                    [
+                        1918,
+                        884
+                    ],
+                    [
+                        1486,
+                        752
+                    ],
+                    [
+                        1416,
+                        730
+                    ],
+                    [
+                        1219,
+                        668
+                    ],
+                    [
+                        1085,
+                        626
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279893,
+            "classId": 42,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "abingul",
+            "createdAt": "2020-08-21T20:18:51.575Z",
+            "updatedAt": "2020-08-21T20:20:37.845Z",
+            "tags": [],
+            "classTitle": "Solid Line",
+            "points": {
+                "exterior": [
+                    [
+                        1920,
+                        720
+                    ],
+                    [
+                        1645,
+                        683
+                    ],
+                    [
+                        1418,
+                        650
+                    ],
+                    [
+                        1276,
+                        630
+                    ],
+                    [
+                        1169,
+                        615
+                    ],
+                    [
+                        1091,
+                        606
+                    ],
+                    [
+                        1032,
+                        600
+                    ],
+                    [
+                        992,
+                        597
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279895,
+            "classId": 43,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "abingul",
+            "createdAt": "2020-08-21T20:19:05.982Z",
+            "updatedAt": "2020-08-21T20:20:37.845Z",
+            "tags": [],
+            "classTitle": "Dashed Line",
+            "points": {
+                "exterior": [
+                    [
+                        1085,
+                        626
+                    ],
+                    [
+                        1054,
+                        617
+                    ],
+                    [
+                        1036,
+                        612
+                    ],
+                    [
+                        1015,
+                        606
+                    ],
+                    [
+                        997,
+                        602
+                    ],
+                    [
+                        991,
+                        601
+                    ],
+                    [
+                        974,
+                        599
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279896,
+            "classId": 43,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "abingul",
+            "createdAt": "2020-08-21T20:19:21.458Z",
+            "updatedAt": "2020-08-21T20:20:37.845Z",
+            "tags": [],
+            "classTitle": "Dashed Line",
+            "points": {
+                "exterior": [
+                    [
+                        1919,
+                        776
+                    ],
+                    [
+                        1496,
+                        689
+                    ],
+                    [
+                        1334,
+                        658
+                    ],
+                    [
+                        1210,
+                        635
+                    ],
+                    [
+                        1119,
+                        617
+                    ],
+                    [
+                        1070,
+                        609
+                    ],
+                    [
+                        1028,
+                        603
+                    ],
+                    [
+                        993,
+                        599
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279898,
+            "classId": 43,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "abingul",
+            "createdAt": "2020-08-21T20:19:53.270Z",
+            "updatedAt": "2020-08-21T20:20:37.845Z",
+            "tags": [],
+            "classTitle": "Dashed Line",
+            "points": {
+                "exterior": [
+                    [
+                        1663,
+                        1208
+                    ],
+                    [
+                        1099,
+                        707
+                    ],
+                    [
+                        1031,
+                        648
+                    ],
+                    [
+                        1005,
+                        627
+                    ],
+                    [
+                        992,
+                        617
+                    ],
+                    [
+                        985,
+                        612
+                    ],
+                    [
+                        979,
+                        608
+                    ],
+                    [
+                        975,
+                        605
+                    ],
+                    [
+                        969,
+                        602
+                    ],
+                    [
+                        963,
+                        600
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279900,
+            "classId": 43,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "abingul",
+            "createdAt": "2020-08-21T20:20:16.882Z",
+            "updatedAt": "2020-08-21T20:20:37.845Z",
+            "tags": [],
+            "classTitle": "Dashed Line",
+            "points": {
+                "exterior": [
+                    [
+                        526,
+                        1207
+                    ],
+                    [
+                        882,
+                        700
+                    ],
+                    [
+                        918,
+                        646
+                    ],
+                    [
+                        928,
+                        630
+                    ],
+                    [
+                        935,
+                        619
+                    ],
+                    [
+                        939,
+                        613
+                    ],
+                    [
+                        942,
+                        608
+                    ],
+                    [
+                        943,
+                        604
+                    ],
+                    [
+                        944,
+                        600
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279901,
+            "classId": 43,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "abingul",
+            "createdAt": "2020-08-21T20:20:37.757Z",
+            "updatedAt": "2020-08-21T20:20:53.672Z",
+            "tags": [],
+            "classTitle": "Dashed Line",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        986
+                    ],
+                    [
+                        630,
+                        723
+                    ],
+                    [
+                        774,
+                        663
+                    ],
+                    [
+                        864,
+                        625
+                    ],
+                    [
+                        879,
+                        619
+                    ],
+                    [
+                        894,
+                        613
+                    ],
+                    [
+                        903,
+                        609
+                    ],
+                    [
+                        924,
+                        601
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
