@@ -1,0 +1,2 @@
+# Freespace_Segmentation_with_Fully_Convolutional_Neural_Network_FCNN-Ford_Otosan_Intern
+Developing a deep learning algorithm for drivable area detection.
